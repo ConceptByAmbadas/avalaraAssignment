@@ -1,0 +1,10 @@
+chromeDriver=E://Seleium_data//All_FireFox_version//chromedriver.exe
+IEDriver=""
+URL=http://www.firstcry.com/
+//file:///E:/Registration.htm
+//ExcelFile=E:\\GIT_Project\\com.automation.maven\\TestDataFile\\Datasheet.xlsx
+ExcelFile=E:\\StudyWorkpace\\com.info.avlara\\src\\main\\resources\\Datasheet.xlsx
+browser=chrome
+
+//firefox
+//chrome
